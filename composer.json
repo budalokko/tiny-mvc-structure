@@ -1,0 +1,10 @@
+{
+    "name": "webfutura.eu/simplesite",
+    "description": "Simple demo site",
+    "type": "project",
+    "require": {
+    },
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
